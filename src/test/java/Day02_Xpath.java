@@ -52,6 +52,8 @@ public class Day02_Xpath {
 
     }
 
+    // Ders notlarini eklemeyi unutma!!
+
     @AfterClass
     public static void tearDown(){
         //driver.quit();
